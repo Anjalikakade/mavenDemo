@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17531" started-at="2020-03-09T06:51:24Z" finished-at="2020-03-09T06:51:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17531" started-at="2020-03-09T06:51:24Z" finished-at="2020-03-09T06:51:41Z">
+      <class name="test.AssOnGoggle">
+        <test-method status="PASS" signature="setbrowser()[pri:0, instance:test.AssOnGoggle@59fa1d9b]" name="setbrowser" is-config="true" duration-ms="8739" started-at="2020-03-09T06:51:24Z" finished-at="2020-03-09T06:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setbrowser -->
+        <test-method status="PASS" signature="checklog()[pri:0, instance:test.AssOnGoggle@59fa1d9b]" name="checklog" duration-ms="179" started-at="2020-03-09T06:51:32Z" finished-at="2020-03-09T06:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklog -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.AssOnGoggle@59fa1d9b]" name="closebrowser" is-config="true" duration-ms="874" started-at="2020-03-09T06:51:33Z" finished-at="2020-03-09T06:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="setbrowser()[pri:0, instance:test.AssOnGoggle@59fa1d9b]" name="setbrowser" is-config="true" duration-ms="6867" started-at="2020-03-09T06:51:33Z" finished-at="2020-03-09T06:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setbrowser -->
+        <test-method status="PASS" signature="checkurl()[pri:0, instance:test.AssOnGoggle@59fa1d9b]" name="checkurl" duration-ms="14" started-at="2020-03-09T06:51:40Z" finished-at="2020-03-09T06:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkurl -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.AssOnGoggle@59fa1d9b]" name="closebrowser" is-config="true" duration-ms="799" started-at="2020-03-09T06:51:40Z" finished-at="2020-03-09T06:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.AssOnGoggle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
